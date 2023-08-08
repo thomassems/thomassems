@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tomsems@gmail.com**
 
-- ⚡ Fun fact **I live a very healthy and active lifestyle**
+- ⚡ Fun fact **I wrote my first line of code in 2022 and I live a very healthy and active lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
