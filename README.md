@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommy</h1>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Code enthusiast building digital possibilities</h3>
 
 - 🌱 I’m currently learning **React & TypeScript**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tomsems@gmail.com**
 
-- ⚡ Fun fact **I wrote my first line of code in 2022 and I live a very healthy and active lifestyle**
+- ⚡ Fun fact **I live a very healthy and active lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
