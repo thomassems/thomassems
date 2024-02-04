@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Code enthusiast building digital possibilities</h3>
 
-- 🌱 I’m currently learning **Java, Flutter & Dart**
+- 🌱 I’m currently learning **C, Flutter & Dart**
 
 - 💬 Ask me about **python, react & leetcode**
 
