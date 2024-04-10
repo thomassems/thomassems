@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Code enthusiast building digital possibilities</h3>
 
-- 🌱 I’m currently learning **PyTorch, C, Flutter & Dart**
+- 🌱 I’m currently learning **PyTorch, C, PostgreSQL, Flutter & Dart**
 
 - 💬 Ask me about **Python, ReactJS, & Machine Learning**
 
