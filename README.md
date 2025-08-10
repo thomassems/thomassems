@@ -11,9 +11,6 @@
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
 
 **Always learning and improving**—whether it’s coding, mindset, focus, communication, or new technologies.
-
-**Currently training for another marathon** after recovering from an injury. 🏃‍♂️
-
 ---
 
 <h3 align="left">Connect with me:</h3>
