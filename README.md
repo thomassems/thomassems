@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI Enthusiast | Marathoner | Lifelong Learner</h3>
 
 <p align="center">
-  I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve—both professionally and personally.
+  I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve; both professionally and personally.
 </p>
 
 - 🌱 **Currently working on:** Building **Motto**, a self-development widget that provides passive motivation to users.  
