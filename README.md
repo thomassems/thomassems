@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 **Currently working on:** Building **Motto**, a self-development widget that provides passive motivation to users.  
-- 💻 **At Keel Digital**: Software Engineering Intern, contributing to the development of mental health software.  
+- 💻 **At Keel Digital**: Software Engineering, contributing to the development of mental health software.  
 - 🏢 **Previously at Blockhouse**: Software Engineering Intern, worked on fintech solutions at a fast-paced startup.  
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
 
