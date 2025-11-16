@@ -5,7 +5,7 @@
   I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve; both professionally and personally.
 </p>
 
-- 🌱 **Currently working on:** Building **Motto**, a self-development widget that provides passive motivation to users.  
+- 🌱 **Currently working on:** Building **Neural Bets**, a paper trading sports betting platform.  
 - 💻 **At Keel Digital**: Software Engineering, contributing to the development of mental health software.  
 - 🏢 **Previously at Blockhouse**: Software Engineering Intern, worked on fintech solutions at a fast-paced startup.  
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
