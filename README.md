@@ -33,7 +33,7 @@
 
 <h3 align="left">Skills:</h3>
 <ul>
-  <li><strong>Languages:</strong> Python, TypeScript, SQL, JavaScript, Java, HTML/CSS, Swift, Dart</li>
+  <li><strong>Languages:</strong> Python, TypeScript, SQL, JavaScript, Java, HTML/CSS, Dart</li>
   <li><strong>Frameworks & Libraries:</strong> Node.js, Next.js, Flask, ReactJS, Knex.js, Flutter, PyTorch</li>
   <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS (EC2, S3), Git, Kong, Keycloak, Ngrok, Postman, Jira</li>
 </ul>
