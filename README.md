@@ -5,8 +5,9 @@
   I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve; both professionally and personally.
 </p>
 
-- 🌱 **Currently working on:** Building **Neural Bets**, a paper trading sports betting platform.  
-- 💻 **At Keel Digital**: Software Engineering, contributing to the development of mental health software.  
+- 🌱 **Currently working on:** Building **Neural Bets**, a paper trading sports betting platform.
+- 🧠 **Currently learning:** Scaling applications and core concepts in system design.
+- 💻 **At Keel Digital Solutions**: Software Engineering, contributing to the development of mental health software.  
 - 🏢 **Previously at Blockhouse**: Software Engineering Intern, worked on fintech solutions at a fast-paced startup.  
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
 
@@ -33,8 +34,8 @@
 <h3 align="left">Skills:</h3>
 <ul>
   <li><strong>Languages:</strong> Python, TypeScript, SQL, JavaScript, Java, HTML/CSS, Swift, Dart</li>
-  <li><strong>Frameworks & Libraries:</strong> Node.js, ReactJS, Knex.js, Flutter, Flask, SwiftUI, PyTorch, TensorFlow</li>
-  <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS (EC2, S3), Keycloak, Git, Postman, Jira, Linear</li>
+  <li><strong>Frameworks & Libraries:</strong> Node.js, Next.js, Flask, ReactJS, Knex.js, Flutter, PyTorch</li>
+  <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS (EC2, S3), Git, Kong, Keycloak, Postman, Jira</li>
 </ul>
 
 ---
