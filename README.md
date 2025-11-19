@@ -7,8 +7,8 @@
 
 - 🌱 **Currently working on:** Building **Neural Bets**, a paper trading sports betting platform.
 - 🧠 **Currently learning:** Scaling applications and core concepts in system design.
-- 💻 **At Keel Digital Solutions**: Software Engineering, contributing to the development of mental health software.  
-- 🏢 **Previously at Blockhouse**: Software Engineering Intern, worked on fintech solutions at a fast-paced startup.  
+- 💻 **At Keel Digital Solutions**: Software Engineer - Contributing to the development of mental health software.  
+- 🏢 **Previously at Blockhouse**: Software Engineering Intern - Worked on fintech solutions at a fast-paced startup.  
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
 
 **Always learning and improving**—whether it’s coding, mindset, focus, communication, or new technologies.
