@@ -35,7 +35,7 @@
 <ul>
   <li><strong>Languages:</strong> Python, TypeScript, SQL, JavaScript, Java, HTML/CSS, Dart</li>
   <li><strong>Frameworks & Libraries:</strong> Node.js, Next.js, Flask, ReactJS, Knex.js, Flutter, PyTorch</li>
-  <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS (EC2, S3), Git, Kong, GCP, Keycloak, Ngrok, Jira</li>
+  <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS, Git, Kong, GCP, Keycloak, Ngrok, Jira</li>
 </ul>
 
 ---
