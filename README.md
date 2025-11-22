@@ -26,7 +26,6 @@
   <li>AI & Machine Learning 🧠</li>
   <li>Startups & Innovation 🚀</li>
   <li>Personal Growth & Self-Development 🌱</li>
-  <li>Building meaningful digital products 💡</li>
 </ul>
 
 ---
