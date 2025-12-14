@@ -5,8 +5,14 @@
   I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve; both professionally and personally.
 </p>
 
-- 🌱 **Currently working on:** Building **Neural Bets**, a paper trading sports betting platform.
-- 🧠 **Currently learning:** Scaling applications and core concepts in system design.
+* 🌱 **Currently working on:**
+    * Building **Neural Bets**, a paper trading sports betting platform.
+    * Completing **AWS Certified Solutions Architect - Associate** course
+    * Reviewing NeetCode 150
+
+* 🧠 **Currently learning:**
+    * Vim
+    * Core concepts in system design.
 - 💻 **At Keel Digital Solutions**: Software Engineer - Contributing to the development of mental health software.  
 - 🏢 **Previously at Blockhouse**: Software Engineering Intern - Worked on fintech solutions at a fast-paced startup.  
 - 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
