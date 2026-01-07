@@ -2,22 +2,23 @@
 <h3 align="center">Software Engineer | AI Enthusiast | Marathoner | Lifelong Learner</h3>
 
 <p align="center">
-  I'm a passionate software engineer with experience across multiple domains, including mental health, fintech, and self-development. My focus is on building innovative solutions with cutting-edge technologies to make a real-world impact. I enjoy tinkering with AI, diving into new tools, and continuously pushing myself to improve; both professionally and personally.
+  <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br> 
+  I am focused on becoming a truly <b>cracked developer</b> by mastering elite workflows to become incredibly fast and efficient. This is exactly why I am currently deep in the process of mastering <b>Vim</b> and learning to architect systems at the highest level. I stay ahead of the curve by experimenting with the latest AI tools and maintaining broad domain knowledge across multiple industries.
 </p>
 
-* 🌱 **Currently working on:**
-    * Building **Neural Bets**, a paper trading sports betting platform.
-    * Completing **AWS Certified Solutions Architect - Associate** course
-    * Reviewing NeetCode 150
+### ⚡ Technical Focus
+* 🚀 **Neural Bets:** Building a paper trading sports betting platform.
+* ☁️ **Cloud Architecture:** Completing the **AWS Certified Solutions Architect** Associate certification.
+* 🧩 **Algorithms:** Currently grinding the **NeetCode 150** to master complex problem-solving patterns.
+* ⌨️ **Workflow:** Achieving peak efficiency through **Vim** and advanced system design concepts.
 
-* 🧠 **Currently learning:**
-    * Vim
-    * Core concepts in system design.
-- 💻 **At Keel Digital Solutions**: Software Engineer - Contributing to the development of mental health software.  
-- 🏢 **Previously at Blockhouse**: Software Engineering Intern - Worked on fintech solutions at a fast-paced startup.  
-- 🎓 **Education**: BSc in Computer Science & Statistics from the University of Toronto.
+### 💼 Experience
+* 💻 **Keel Digital Solutions:** Software Engineer building impactful mental health software.
+* 🏢 **Blockhouse:** Software Engineering Intern developing fintech solutions in a high-growth startup environment.
+* 🎓 **Education:** BSc in Computer Science & Statistics from the University of Toronto.
 
-**Always learning and improving**—whether it’s coding, mindset, focus, communication, or new technologies.
+### 📈 The Mindset
+**Always learning and improving across areas like coding, mindset, focus, communication, and new technologies.**
 ---
 
 <h3 align="left">Connect with me:</h3>
