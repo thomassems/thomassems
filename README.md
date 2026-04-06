@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thomas Semczyszyn</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Marathoner | Lifelong Learner</h3>
+<h3 align="center">Founding Engineer | AI Enthusiast | Endurance Athlete | Lifelong Learner</h3>
 
 <p align="center">
-  <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br> 
-  I am focused on becoming a truly <b>cracked developer</b> by mastering elite workflows to become incredibly fast and efficient. This is exactly why I am currently deep in the process of mastering <b>Vim</b> and learning to architect systems at the highest level. I stay ahead of the curve by experimenting with the latest AI tools and maintaining broad domain knowledge across multiple industries.
+<strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
+My current mission is to become so <b>cracked</b> that the AI has to work for me, not the other way around. I stay ahead of the curve by aggressively integrating the latest AI tools into my workflow to maximize shipping velocity. When I'm not architecting systems, I’m likely training for my first Ironman or playing through the original <b>Pokémon</b> games.
 </p>
 
-### ⚡ Technical Focus
-* 🚀 **Neural Bets:** Building a paper trading sports betting platform.
-* ☁️ **Cloud Architecture:** Completing the **AWS Certified Solutions Architect** Associate certification.
-* 🧩 **Algorithms:** Currently grinding the **NeetCode 150** to master complex problem-solving patterns.
-* ⌨️ **Workflow:** Achieving peak efficiency through **Vim** and advanced system design concepts.
-
 ### 💼 Experience
+* 🤖 **StockAgents:** Founding Engineer building a deterministic AI engine for the stock and options market.
 * 💻 **Keel Digital Solutions:** Software Engineer building impactful mental health software.
 * 🏢 **Blockhouse:** Software Engineering Intern developing fintech solutions in a high-growth startup environment.
 * 🎓 **Education:** BSc in Computer Science & Statistics from the University of Toronto.
-
-### 📈 The Mindset
-**Always learning and improving across areas like coding, mindset, focus, communication, and new technologies.**
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +21,7 @@
 
 <h3 align="left">What I'm Into:</h3>
 <ul>
-  <li>AI & Machine Learning 🧠</li>
+  <li>Autonomous Agents & LLM Orchestration 🧠</li>
   <li>Startups & Innovation 🚀</li>
   <li>Personal Growth & Self-Development 🌱</li>
 </ul>
