@@ -3,7 +3,7 @@
 
 <p align="center">
 <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to become so <b>cracked</b> that the AI has to work for me, not the other way around. I stay ahead of the curve by aggressively integrating the latest AI tools into my workflow to maximize shipping velocity. When I'm not architecting systems, I’m likely training for my first Ironman or playing through the original <b>Pokémon</b> games.
+My current mission is to become so <b>cracked</b> that the AI has to work for me, not the other way around. I stay ahead of the curve by aggressively integrating the latest AI tools into my workflow to maximize shipping velocity. When I'm not architecting systems, I’m likely training for my first Ironman, playing through the original <b>Pokémon</b> games or learning more about minimalism.
 </p>
 
 ### 💼 Experience
@@ -34,11 +34,6 @@ My current mission is to become so <b>cracked</b> that the AI has to work for me
   <li><strong>Frameworks & Libraries:</strong> Node.js, Next.js, Flask, ReactJS, Knex.js, Flutter, PyTorch</li>
   <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS, Git, Kong, GCP, Keycloak, Ngrok, Jira</li>
 </ul>
-
----
-
-<h3 align="left">Fun Fact:</h3>
-<p align="left">I wrote my first line of code in 2022 and have been hooked ever since!</p>
 
 ---
 
