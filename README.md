@@ -3,7 +3,7 @@
 
 <p align="center">
 <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to become so <b>cracked</b> that the AI has to work for me, not the other way around. I stay ahead of the curve by aggressively integrating the latest AI tools into my workflow to maximize shipping velocity. When I'm not architecting systems, I’m likely training for my first Ironman, playing through the original <b>Pokémon</b> games or learning more about minimalism.
+My current mission is to learn every thing there is to know about <b>AI</b>. This means reading through research papers, watching Andrej Karpathy, and trying to build my own machine learning models. I also like to play around with the newest AI tools, right now I'm giving Codex a try, and before that I experimented with Claude Code, Cursor, and Copilot. When I'm not building, I’m likely on a run, playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon) or learning more about minimalism.
 </p>
 
 ### 💼 Experience
