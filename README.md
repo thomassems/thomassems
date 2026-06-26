@@ -3,7 +3,7 @@
 
 <p align="center">
 <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, watching Andrej Karpathy, and trying to build my own machine learning models. I also like to play around with the newest AI tools, right now I'm giving Codex a try, and before that I experimented with Claude Code, Cursor, and Copilot. When I'm not building, I’m likely on a run or playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon).
+My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, watching Andrej Karpathy, and trying to build my own machine learning models. When I'm not building, I’m likely on a run or playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon).
 </p>
 
 ### 💼 Experience
