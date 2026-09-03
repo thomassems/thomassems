@@ -3,7 +3,7 @@
 
 <p align="center">
 <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, and trying to build my own machine learning models and agents. When I'm not building, I’m likely on a run or playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon).
+My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, and trying to build my own agents. When I'm not building, I’m likely on a run or playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon).
 </p>
 
 ### 💼 Experience
@@ -21,7 +21,7 @@ My current mission is to learn everything there is to know about <b>AI</b>. This
 
 <h3 align="left">What I'm Into:</h3>
 <ul>
-  <li>Autonomous Agents & LLM Orchestration 🧠</li>
+  <li>AI Agents 🧠</li>
   <li>Startups & Innovation 🚀</li>
   <li>Personal Growth & Self-Development 🌱</li>
 </ul>
