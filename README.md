@@ -3,11 +3,11 @@
 
 <p align="center">
 <strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, and trying to build my own agents. When I'm not building, I’m likely on a run or playing <b>PokeRogue</b> (a Pokémon game where you battle endlessly through every generation of Pokémon).
+My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, and trying to build my own agents. When I'm not building, I’m likely playing <b>Pokémon Go</b> (yes, I still play Pokémon Go in 2026 😭).
 </p>
 
 ### 💼 Experience
-* 🤖 **StockAgents:** Founding Engineer building a deterministic AI engine for the stock and options market.
+* 🤖 **StockAgents:** Founding Engineer building AI agents for the stock and options market.
 * 💻 **Keel Digital Solutions:** Software Engineer building impactful mental health software.
 * 🏢 **Blockhouse:** Software Engineering Intern developing fintech solutions in a high-growth startup environment.
 * 🎓 **Education:** BSc in Computer Science & Statistics from the University of Toronto.
@@ -30,9 +30,9 @@ My current mission is to learn everything there is to know about <b>AI</b>. This
 
 <h3 align="left">Skills:</h3>
 <ul>
-  <li><strong>Languages:</strong> Python, TypeScript, SQL, JavaScript, Java, HTML/CSS, Dart</li>
-  <li><strong>Frameworks & Libraries:</strong> Node.js, Next.js, Flask, ReactJS, Knex.js, Flutter, PyTorch</li>
-  <li><strong>Technologies & Tools:</strong> PostgreSQL, Docker, AWS, Git, Kong, GCP, Keycloak, Ngrok, Jira</li>
+  <li><strong>Languages:</strong> Python, TypeScript, JavaScript, SQL, Java, C</li>
+  <li><strong>Frameworks & Data:</strong> Node.js, Express, Django, Flask, Next.js, React, Flutter, PostgreSQL, MongoDB, Redis, LangChain</li>
+  <li><strong>Cloud & DevOps:</strong> AWS (Lambda, SQS, EventBridge, ECS/Fargate, EC2, RDS, S3), GCP (Cloud Run), Docker, GitHub Actions</li>
 </ul>
 
 ---
