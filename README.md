@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thomas Semczyszyn</h1>
-<h3 align="center">Founding Engineer | AI Enthusiast | Endurance Athlete | Lifelong Learner</h3>
+<h3 align="center">AI Engineer | Endurance Athlete | Lifelong Learner</h3>
 
 <p align="center">
-<strong>I am a software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to learn everything there is to know about <b>AI</b>. This means reading through research papers, and trying to build my own agents. When I'm not building, I’m likely playing <b>Pokémon Go</b> (yes, I still play Pokémon Go in 2026 😭).
+<strong>I am an AI software engineer driven by a single goal: I refuse to be average.</strong><br>
+My current mission is to learn as much as I can about <b>AI</b>. This means reading through research papers, playing around with smaller models and trying to build my own agents. When I'm not building, I’m likely playing <b>Pokémon Go</b> (yes, I still play Pokémon Go in 2026 😭).
 </p>
 
 ### 💼 Experience
-* 🤖 **StockAgents:** Founding Engineer building AI agents for the stock and options market.
+* 🧠 **WellnessLiving:** AI Solutions Engineer building AI-powered agents, workflows, and automations for internal operations and customer-facing products.
+* 📈 **StockAgents:** Founding Engineer building AI agents for the stock and options market.
 * 💻 **Keel Digital Solutions:** Software Engineer building impactful mental health software.
 * 🏢 **Blockhouse:** Software Engineering Intern developing fintech solutions in a high-growth startup environment.
+* 🤖 **Data Annotation:** AI Trainer developing coding prompts and evaluating LLM-generated responses for correctness, instruction following, and safety.
 * 🎓 **Education:** BSc in Computer Science & Statistics from the University of Toronto.
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +23,7 @@ My current mission is to learn everything there is to know about <b>AI</b>. This
 
 <h3 align="left">What I'm Into:</h3>
 <ul>
-  <li>AI Agents 🧠</li>
+  <li>AI Engineering & Research 🧠</li>
   <li>Startups & Innovation 🚀</li>
   <li>Personal Growth & Self-Development 🌱</li>
 </ul>
@@ -31,10 +33,10 @@ My current mission is to learn everything there is to know about <b>AI</b>. This
 <h3 align="left">Skills:</h3>
 <ul>
   <li><strong>Languages:</strong> Python, TypeScript, JavaScript, SQL, Java, C</li>
-  <li><strong>Frameworks & Data:</strong> Node.js, Express, Django, Flask, Next.js, React, Flutter, PostgreSQL, MongoDB, Redis, LangChain</li>
+  <li><strong>Frameworks & Data:</strong> Node.js, Express, Django, Flask, Next.js, React, Flutter, PostgreSQL, MongoDB, Redis, LangChain, LangGraph</li>
   <li><strong>Cloud & DevOps:</strong> AWS (Lambda, SQS, EventBridge, ECS/Fargate, EC2, RDS, S3), GCP (Cloud Run), Docker, GitHub Actions</li>
 </ul>
 
 ---
 
-<p align="center">Let’s connect if you're passionate about AI, startups, self-improvement, or just building cool stuff together!</p>
+<p align="center">Let’s connect if you're passionate about AI, startups, personal growth, or just love building cool stuff :)</p>
