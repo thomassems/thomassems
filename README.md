@@ -1,42 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thomas Semczyszyn</h1>
-<h3 align="center">AI Engineer | Endurance Athlete | Lifelong Learner</h3>
-
-<p align="center">
-<strong>I am an AI software engineer driven by a single goal: I refuse to be average.</strong><br>
-My current mission is to learn as much as I can about <b>AI</b>. This means reading through research papers, playing around with smaller models and trying to build my own agents. When I'm not building, I’m likely playing <b>Pokémon Go</b> (yes, I still play Pokémon Go in 2026 😭).
-</p>
-
-### 💼 Experience
-* 🧠 **WellnessLiving:** AI Solutions Engineer building AI-powered agents, workflows, and automations for internal operations and customer-facing products.
-* 📈 **StockAgents:** Founding Engineer building AI agents for the stock and options market.
-* 💻 **Keel Digital Solutions:** Software Engineer building impactful mental health software.
-* 🏢 **Blockhouse:** Software Engineering Intern developing fintech solutions in a high-growth startup environment.
-* 🤖 **Data Annotation:** AI Trainer developing coding prompts and evaluating LLM-generated responses for correctness, instruction following, and safety.
-* 🎓 **Education:** BSc in Computer Science & Statistics from the University of Toronto.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thomas-semczyszyn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy-semczyszyn" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">What I'm Into:</h3>
-<ul>
-  <li>AI Engineering & Research 🧠</li>
-  <li>Startups & Innovation 🚀</li>
-  <li>Personal Growth & Self-Development 🌱</li>
-</ul>
-
----
-
-<h3 align="left">Skills:</h3>
-<ul>
-  <li><strong>Languages:</strong> Python, TypeScript, JavaScript, SQL, Java, C</li>
-  <li><strong>Frameworks & Data:</strong> Node.js, Express, Django, Flask, Next.js, React, Flutter, PostgreSQL, MongoDB, Redis, LangChain, LangGraph</li>
-  <li><strong>Cloud & DevOps:</strong> AWS (Lambda, SQS, EventBridge, ECS/Fargate, EC2, RDS, S3), GCP (Cloud Run), Docker, GitHub Actions</li>
-</ul>
-
----
-
-<p align="center">Let’s connect if you're passionate about AI, startups, personal growth, or just love building cool stuff :)</p>
+<div align="center">
+<a href="https://thomassemczyszyn.com"><img src="./assets/header.svg" width="100%" alt="Thomas Semczyszyn. AI engineer: I build agents, then measure how well they work. Now AI Solutions Engineer at WellnessLiving. Motto: I am an AI software engineer driven by a single goal: I refuse to be average. Also: still playing Pokémon Go in 2026 😭"></a>
+<a href="https://github.com/thomassems/PokeAgent"><img src="./assets/card-pokeagent.svg" width="50%" alt="PokeAgent: ask for a Pokémon team and the agent works it out with real dex tools (get_pokemon, search_strategy, get_type_matchups), then returns six Pokémon with their types."></a><a href="https://github.com/thomassems/ConnectionsRL"><img src="./assets/card-connectionsrl.svg" width="50%" alt="ConnectionsRL: four agents (clue rules, word vectors, a small trained network, an LLM) play 717 archived NYT Connections puzzles."></a>
+<a href="https://linkedin.com/in/thomas-semczyszyn/"><img src="./assets/experience.svg" width="100%" alt="Experience: WellnessLiving, AI Solutions Engineer (2026 to now); StockAgents, Founding Engineer (2026); Keel Digital Solutions, Software Engineer (2025-26); Data Annotation, AI Trainer (2024-25); Blockhouse, Software Engineering Intern (2024); University of Toronto, BSc Computer Science and Statistics (2020-25)."></a>
+<a href="https://thomassemczyszyn.com"><img src="./assets/pill-website.svg" width="33.33%" alt="Website: thomassemczyszyn.com"></a><a href="https://thomassemczyszyn.com"><img src="./assets/pill-projects.svg" width="33.33%" alt="All projects on thomassemczyszyn.com"></a><a href="https://linkedin.com/in/thomas-semczyszyn/"><img src="./assets/pill-linkedin.svg" width="33.33%" alt="LinkedIn: thomas-semczyszyn"></a>
+</div>
